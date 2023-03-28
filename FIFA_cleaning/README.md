@@ -21,10 +21,11 @@ This project is a data cleaning project, it started as a challenge from two twit
 <li> Numpy
 <li> Datetime
 </ul>
+<li> PowerBi
 </ul>
 
 ## How to setup this project;
-To run this project after pulling it you just need to ensure that the above libraries are installed on work environment of your choice.
+To run this project after pulling it you just need to ensure that the above libraries are installed on work environment of your choice and also have PowerBi installed on your laptop so you can open the report.
 <br><hr>
 <div style="text-align: center;">
 <a href="https://oluwaseun-ogundeko.netlify.app/">Learn more about me!</a>
