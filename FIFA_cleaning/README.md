@@ -6,7 +6,7 @@ This project is a data cleaning project, it started as a challenge from two twit
 <hr>
 <b>Names of Project Files</b>:
 <ul>
-<li>FiFa_Report.pbix
+<li>FiFa Report.png
 <li>FIFA.ipynb
 <li>fifa.csv
 <li>cleaned_fifa.csv (The already cleaned dataset)
